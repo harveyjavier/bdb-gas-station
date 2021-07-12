@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bdb-gas-station/static/css/main.a617e044.chunk.css",
+    "main.js": "/bdb-gas-station/static/js/main.08aed9f8.chunk.js",
+    "main.js.map": "/bdb-gas-station/static/js/main.08aed9f8.chunk.js.map",
+    "runtime-main.js": "/bdb-gas-station/static/js/runtime-main.714a4a01.js",
+    "runtime-main.js.map": "/bdb-gas-station/static/js/runtime-main.714a4a01.js.map",
+    "static/js/2.56f58c9a.chunk.js": "/bdb-gas-station/static/js/2.56f58c9a.chunk.js",
+    "static/js/2.56f58c9a.chunk.js.map": "/bdb-gas-station/static/js/2.56f58c9a.chunk.js.map",
+    "static/js/3.24e69ec6.chunk.js": "/bdb-gas-station/static/js/3.24e69ec6.chunk.js",
+    "static/js/3.24e69ec6.chunk.js.map": "/bdb-gas-station/static/js/3.24e69ec6.chunk.js.map",
+    "index.html": "/bdb-gas-station/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bdb-gas-station/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.56f58c9a.chunk.js.LICENSE.txt": "/bdb-gas-station/static/js/2.56f58c9a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bdb-gas-station/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714a4a01.js",
+    "static/js/2.56f58c9a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.08aed9f8.chunk.js"
+  ]
+}
